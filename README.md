@@ -33,6 +33,3 @@ Replace your-secret-key with a strong secret key and mongodb://localhost:27017/y
 ## Additional Information
 - **Frontend**: Built with React and styled using Tailwind CSS.
 - **Backend**: Powered by Node.js, Express, and MongoDB.
-
-
-***Follow me*** : https://aniketwandile.entlify.app
